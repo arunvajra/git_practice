@@ -19,7 +19,7 @@ for i in list_num:
 
 print("Hello World")
 
-
+print("Python IT_training")
 
 
 
